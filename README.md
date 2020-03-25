@@ -22,4 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 4. Modify the overall UI of the App
 
 ## FOR NOW!
-*Handle Screenshots: see my previous corovirus repo* 
+*Handle Screenshots: see my previous coronavirus repo* 
+
+## CATCH THE BLOG
+https://bayardcodes.blogspot.com/2020/03/flutter-building-coronavirus-tracker.html
