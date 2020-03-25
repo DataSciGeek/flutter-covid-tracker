@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## TODO
 1. Add a drawer
-2. Add a News Feed
+2. Add the News Feed
 3. Plot the Latest Information into Charts
 4. Modify the overall UI of the App
 
